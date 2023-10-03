@@ -16,7 +16,7 @@ const Navbar = () => {
       </nav>
     );
   }
-  
+
 const Sidebar = () => {
   return (
     <div className="d-none d-md-block col-md-3">
@@ -30,7 +30,7 @@ const Sidebar = () => {
 const Footer = () => {
   return (
     <div className="border-top p-2">
-      Template Demo © 2019
+      Template Demo © 2023
     </div>
   )
 }
